@@ -32,12 +32,13 @@ O projeto simula o gerenciamento de um catálogo de livros, com foco em boas pr�
 
 ## ▶️ Como executar o projeto
 
+# Criar .env contendo a variável de ambiente abiaxo para conexão com o banco
+DB_CONNECT_URL
+
 ```bash
 # Instalar dependências
 npm install
 
-# Criar .env contendo a variável de ambiente abiaxo para conexão com o banco
-DB_CONNECT_URL
 
 
 # Iniciar o servidor
